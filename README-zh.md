@@ -23,7 +23,7 @@ git clone http://github.com/dream-num/univer
 cd univer
 npm i -g pnpm # MacOS : sudo npm i -g pnpm
 npx playwright install
-pnmp i
+pnpm i
 ```
 ### 开发
 ```
